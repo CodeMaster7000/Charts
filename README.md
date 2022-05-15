@@ -1,2 +1,2 @@
 # Charts
-A selection of charts coded in JavaScript.
+A selection of charts coded in HTML.
